@@ -1,8 +1,9 @@
 {
+	"name": "fcc-learn-npm-package-json",
 	"author": "Davi Guimarães",
 	"description": "A project that does something awesome",
 	"keywords": [ "freecodecamp", "awesome", "fcc" ],
-	"name": "fcc-learn-npm-package-json",
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
